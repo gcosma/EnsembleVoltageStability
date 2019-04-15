@@ -10,7 +10,6 @@ Paper can be found here: https://ieeexplore.ieee.org/document/8392845
 Paper citation:
 S. S. Maaji, G. Cosma, A. Taherkhani, A. A. Alani and T. M. McGinnity, "On-line voltage stability monitoring using an Ensemble AdaBoost classifier," 2018 4th International Conference on Information Management (ICIM), Oxford, 2018, pp. 253-259.
 doi: 10.1109/INFOMAN.2018.8392845
-keywords: {Bayes methods;decision trees;learning (artificial intelligence);pattern classification;power system measurement;power system stability;SCADA systems;Ensemble AdaBoost classifier;predictive modeling;electrical power systems;Phasor Measurement Units;SCADA;Naïve Bayesian;K-Nearest Neighbors;Random Forest;PSSE Power-Voltage analysis tool;IEEE 39 bus;electrical grids;supervisory control and data acquisition system;decision making;on-line voltage stability monitoring;Power system stability;Stability analysis;Monitoring;Phasor measurement units;Machine learning algorithms;Training;Electronic mail;Adaboost;Decision Tree;Phasor Measurement Units;Power-Voltage Analysis;PSSE;Support Vector Machines},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8392845&isnumber=8392653
 
 
